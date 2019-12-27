@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Digitalpoint sanity Test" verbose="4">
+
+	<listeners>
+		<listener class-name="com.digitalpoint.listener.ExtentReportListener" />
+	</listeners>
+
+	<test name="Digitalpoint sanity Test">
+		<classes>
+			<class name="com.digitalpoint.testcase.LoginPageTest" />
+			<class name="com.digitalpoint.testcase.HomePageTest" /> 
+		</classes>
+	</test>
+</suite>

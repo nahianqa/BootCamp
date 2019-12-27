@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Digitalpoint sanity Test" duration-ms="86675" started-at="2019-12-27T09:15:43 EST" finished-at="2019-12-27T09:17:09 EST">
+    <groups>
+    </groups>
+    <test name="Digitalpoint sanity Test" duration-ms="86675" started-at="2019-12-27T09:15:43 EST" finished-at="2019-12-27T09:17:09 EST">
+      <class name="com.digitalpoint.testcase.HomePageTest">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.digitalpoint.testcase.HomePageTest@38364841]" name="browserSetup" is-config="true" duration-ms="22798" started-at="2019-12-27T09:16:23 EST" finished-at="2019-12-27T09:16:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="checkElement()[pri:0, instance:com.digitalpoint.testcase.HomePageTest@38364841]" name="checkElement" duration-ms="859" started-at="2019-12-27T09:16:45 EST" finished-at="2019-12-27T09:16:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkElement -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalpoint.testcase.HomePageTest@38364841]" name="tearDown" is-config="true" duration-ms="626" started-at="2019-12-27T09:16:46 EST" finished-at="2019-12-27T09:16:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.digitalpoint.testcase.HomePageTest@38364841]" name="browserSetup" is-config="true" duration-ms="21634" started-at="2019-12-27T09:16:47 EST" finished-at="2019-12-27T09:17:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="verfyHomePageTitle()[pri:0, instance:com.digitalpoint.testcase.HomePageTest@38364841]" name="verfyHomePageTitle" duration-ms="21" started-at="2019-12-27T09:17:09 EST" finished-at="2019-12-27T09:17:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalpoint.testcase.HomePageTest@38364841]" name="tearDown" is-config="true" duration-ms="655" started-at="2019-12-27T09:17:09 EST" finished-at="2019-12-27T09:17:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalpoint.testcase.HomePageTest -->
+      <class name="com.digitalpoint.testcase.LoginPageTest">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.digitalpoint.testcase.LoginPageTest@6385cb26]" name="browserSetup" is-config="true" duration-ms="17033" started-at="2019-12-27T09:15:43 EST" finished-at="2019-12-27T09:16:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="userlogin()[pri:0, instance:com.digitalpoint.testcase.LoginPageTest@6385cb26]" name="userlogin" duration-ms="5805" started-at="2019-12-27T09:16:00 EST" finished-at="2019-12-27T09:16:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalpoint.testcase.LoginPageTest@6385cb26]" name="tearDown" is-config="true" duration-ms="621" started-at="2019-12-27T09:16:06 EST" finished-at="2019-12-27T09:16:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.digitalpoint.testcase.LoginPageTest@6385cb26]" name="browserSetup" is-config="true" duration-ms="15808" started-at="2019-12-27T09:16:06 EST" finished-at="2019-12-27T09:16:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="verfyLoginPageTitle()[pri:0, instance:com.digitalpoint.testcase.LoginPageTest@6385cb26]" name="verfyLoginPageTitle" duration-ms="29" started-at="2019-12-27T09:16:22 EST" finished-at="2019-12-27T09:16:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalpoint.testcase.LoginPageTest@6385cb26]" name="tearDown" is-config="true" duration-ms="644" started-at="2019-12-27T09:16:22 EST" finished-at="2019-12-27T09:16:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalpoint.testcase.LoginPageTest -->
+    </test> <!-- Digitalpoint sanity Test -->
+  </suite> <!-- Digitalpoint sanity Test -->
+</testng-results>
